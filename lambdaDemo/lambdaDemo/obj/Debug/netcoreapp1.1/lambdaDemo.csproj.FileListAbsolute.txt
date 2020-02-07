@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\bin\Debug\netcoreapp1.1\lambdaDemo.deps.json
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\bin\Debug\netcoreapp1.1\lambdaDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\bin\Debug\netcoreapp1.1\lambdaDemo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\bin\Debug\netcoreapp1.1\lambdaDemo.dll
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\bin\Debug\netcoreapp1.1\lambdaDemo.pdb
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\obj\Debug\netcoreapp1.1\lambdaDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\obj\Debug\netcoreapp1.1\lambdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\obj\Debug\netcoreapp1.1\lambdaDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\obj\Debug\netcoreapp1.1\lambdaDemo.dll
+C:\Users\Admin\source\repos\lambdaDemo\lambdaDemo\obj\Debug\netcoreapp1.1\lambdaDemo.pdb

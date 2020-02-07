@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\dateString\dateString\bin\Debug\dateString.exe.config
+C:\Users\Admin\source\repos\dateString\dateString\bin\Debug\dateString.exe
+C:\Users\Admin\source\repos\dateString\dateString\bin\Debug\dateString.pdb
+C:\Users\Admin\source\repos\dateString\dateString\obj\Debug\dateString.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\dateString\dateString\obj\Debug\dateString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dateString\dateString\obj\Debug\dateString.exe
+C:\Users\Admin\source\repos\dateString\dateString\obj\Debug\dateString.pdb

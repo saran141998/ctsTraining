@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\bin\Debug\DataTypesExmaple.exe.config
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\bin\Debug\DataTypesExmaple.exe
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\bin\Debug\DataTypesExmaple.pdb
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\obj\Debug\DataTypesExmaple.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\obj\Debug\DataTypesExmaple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\obj\Debug\DataTypesExmaple.exe
+C:\Users\Admin\source\repos\DataTypesExmaple\DataTypesExmaple\obj\Debug\DataTypesExmaple.pdb

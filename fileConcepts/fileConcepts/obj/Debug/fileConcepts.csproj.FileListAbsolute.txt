@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\fileConcepts\fileConcepts\bin\Debug\fileConcepts.exe.config
+c:\users\admin\source\repos\fileConcepts\fileConcepts\bin\Debug\fileConcepts.exe
+c:\users\admin\source\repos\fileConcepts\fileConcepts\bin\Debug\fileConcepts.pdb
+c:\users\admin\source\repos\fileConcepts\fileConcepts\obj\Debug\fileConcepts.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\fileConcepts\fileConcepts\obj\Debug\fileConcepts.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\fileConcepts\fileConcepts\obj\Debug\fileConcepts.exe
+c:\users\admin\source\repos\fileConcepts\fileConcepts\obj\Debug\fileConcepts.pdb

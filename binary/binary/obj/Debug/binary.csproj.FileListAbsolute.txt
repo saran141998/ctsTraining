@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\binary\binary\bin\Debug\binary.exe.config
+c:\users\admin\source\repos\binary\binary\bin\Debug\binary.exe
+c:\users\admin\source\repos\binary\binary\bin\Debug\binary.pdb
+c:\users\admin\source\repos\binary\binary\obj\Debug\binary.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\binary\binary\obj\Debug\binary.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\binary\binary\obj\Debug\binary.exe
+c:\users\admin\source\repos\binary\binary\obj\Debug\binary.pdb

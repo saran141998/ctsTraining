@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\dllTest\dllTest\bin\Debug\dllTest.exe.config
+c:\users\admin\source\repos\dllTest\dllTest\bin\Debug\dllTest.exe
+c:\users\admin\source\repos\dllTest\dllTest\bin\Debug\dllTest.pdb
+c:\users\admin\source\repos\dllTest\dllTest\bin\Debug\ClassLinCalculation.dll
+c:\users\admin\source\repos\dllTest\dllTest\bin\Debug\ClassLinCalculation.pdb
+c:\users\admin\source\repos\dllTest\dllTest\obj\Debug\dllTest.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\dllTest\dllTest\obj\Debug\dllTest.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\dllTest\dllTest\obj\Debug\dllTest.exe
+c:\users\admin\source\repos\dllTest\dllTest\obj\Debug\dllTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\sqtTest\sqtTest\bin\Debug\sqtTest.exe.config
+C:\Users\Admin\source\repos\sqtTest\sqtTest\bin\Debug\sqtTest.exe
+C:\Users\Admin\source\repos\sqtTest\sqtTest\bin\Debug\sqtTest.pdb
+C:\Users\Admin\source\repos\sqtTest\sqtTest\obj\Debug\sqtTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\sqtTest\sqtTest\obj\Debug\sqtTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sqtTest\sqtTest\obj\Debug\sqtTest.exe
+C:\Users\Admin\source\repos\sqtTest\sqtTest\obj\Debug\sqtTest.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\source\repos\SqlConnectionLibrary\SqlConnectionLibrary\bin\Debug\SqlConnectionLibrary.dll
+c:\users\admin\source\repos\SqlConnectionLibrary\SqlConnectionLibrary\bin\Debug\SqlConnectionLibrary.pdb
+c:\users\admin\source\repos\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.dll
+c:\users\admin\source\repos\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.pdb

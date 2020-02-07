@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\task9\task9\obj\Debug\task9.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\task9\task9\obj\Debug\task9.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\task9\task9\bin\Debug\task9.exe.config
+c:\users\admin\source\repos\task9\task9\bin\Debug\task9.exe
+c:\users\admin\source\repos\task9\task9\bin\Debug\task9.pdb
+c:\users\admin\source\repos\task9\task9\obj\Debug\task9.exe
+c:\users\admin\source\repos\task9\task9\obj\Debug\task9.pdb

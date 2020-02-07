@@ -1,0 +1,6 @@
+c:\users\admin\source\repos\ClassLinCalculation\ClassLinCalculation\bin\Debug\ClassLinCalculation.dll
+c:\users\admin\source\repos\ClassLinCalculation\ClassLinCalculation\bin\Debug\ClassLinCalculation.pdb
+c:\users\admin\source\repos\ClassLinCalculation\ClassLinCalculation\obj\Debug\ClassLibCalculation.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\ClassLinCalculation\ClassLinCalculation\obj\Debug\ClassLibCalculation.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ClassLinCalculation\ClassLinCalculation\obj\Debug\ClassLinCalculation.dll
+c:\users\admin\source\repos\ClassLinCalculation\ClassLinCalculation\obj\Debug\ClassLinCalculation.pdb

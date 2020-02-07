@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\quesPrep\quesPrep\bin\Debug\quesPrep.exe.config
+c:\users\admin\source\repos\quesPrep\quesPrep\bin\Debug\quesPrep.exe
+c:\users\admin\source\repos\quesPrep\quesPrep\bin\Debug\quesPrep.pdb
+c:\users\admin\source\repos\quesPrep\quesPrep\obj\Debug\quesPrep.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\quesPrep\quesPrep\obj\Debug\quesPrep.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\quesPrep\quesPrep\obj\Debug\quesPrep.exe
+c:\users\admin\source\repos\quesPrep\quesPrep\obj\Debug\quesPrep.pdb

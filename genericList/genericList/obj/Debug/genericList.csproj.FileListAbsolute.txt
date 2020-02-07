@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\genericList\genericList\bin\Debug\genericList.exe.config
+C:\Users\Admin\source\repos\genericList\genericList\bin\Debug\genericList.exe
+C:\Users\Admin\source\repos\genericList\genericList\bin\Debug\genericList.pdb
+C:\Users\Admin\source\repos\genericList\genericList\obj\Debug\genericList.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\genericList\genericList\obj\Debug\genericList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\genericList\genericList\obj\Debug\genericList.exe
+C:\Users\Admin\source\repos\genericList\genericList\obj\Debug\genericList.pdb

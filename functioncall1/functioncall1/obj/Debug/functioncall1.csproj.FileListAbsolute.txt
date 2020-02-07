@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\functioncall1\functioncall1\bin\Debug\functioncall1.exe.config
+C:\Users\Admin\source\repos\functioncall1\functioncall1\bin\Debug\functioncall1.exe
+C:\Users\Admin\source\repos\functioncall1\functioncall1\bin\Debug\functioncall1.pdb
+C:\Users\Admin\source\repos\functioncall1\functioncall1\obj\Debug\functioncall1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\functioncall1\functioncall1\obj\Debug\functioncall1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\functioncall1\functioncall1\obj\Debug\functioncall1.exe
+C:\Users\Admin\source\repos\functioncall1\functioncall1\obj\Debug\functioncall1.pdb

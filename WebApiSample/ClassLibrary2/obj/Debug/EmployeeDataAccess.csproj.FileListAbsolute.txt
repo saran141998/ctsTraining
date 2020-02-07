@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\WebApiSample\ClassLibrary2\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\WebApiSample\ClassLibrary2\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache

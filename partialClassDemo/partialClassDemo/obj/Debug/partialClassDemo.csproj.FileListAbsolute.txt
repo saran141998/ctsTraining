@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\bin\Debug\partialClassDemo.exe.config
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\bin\Debug\partialClassDemo.exe
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\bin\Debug\partialClassDemo.pdb
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\obj\Debug\partialClassDemo.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\obj\Debug\partialClassDemo.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\obj\Debug\partialClassDemo.exe
+c:\users\admin\source\repos\partialClassDemo\partialClassDemo\obj\Debug\partialClassDemo.pdb

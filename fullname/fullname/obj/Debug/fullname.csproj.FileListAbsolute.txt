@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\fullname\fullname\bin\Debug\fullname.exe.config
+c:\users\admin\source\repos\fullname\fullname\bin\Debug\fullname.exe
+c:\users\admin\source\repos\fullname\fullname\bin\Debug\fullname.pdb
+c:\users\admin\source\repos\fullname\fullname\obj\Debug\fullname.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\fullname\fullname\obj\Debug\fullname.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\fullname\fullname\obj\Debug\fullname.exe
+c:\users\admin\source\repos\fullname\fullname\obj\Debug\fullname.pdb

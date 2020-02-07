@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\classDemo\classDemo\bin\Debug\classDemo.exe.config
+c:\users\admin\source\repos\classDemo\classDemo\bin\Debug\classDemo.exe
+c:\users\admin\source\repos\classDemo\classDemo\bin\Debug\classDemo.pdb
+c:\users\admin\source\repos\classDemo\classDemo\obj\Debug\classDemo.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\classDemo\classDemo\obj\Debug\classDemo.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\classDemo\classDemo\obj\Debug\classDemo.exe
+c:\users\admin\source\repos\classDemo\classDemo\obj\Debug\classDemo.pdb

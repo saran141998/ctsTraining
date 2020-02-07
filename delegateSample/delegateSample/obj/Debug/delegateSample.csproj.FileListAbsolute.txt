@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\delegateSample\delegateSample\bin\Debug\delegateSample.exe.config
+c:\users\admin\source\repos\delegateSample\delegateSample\bin\Debug\delegateSample.exe
+c:\users\admin\source\repos\delegateSample\delegateSample\bin\Debug\delegateSample.pdb
+c:\users\admin\source\repos\delegateSample\delegateSample\obj\Debug\delegateSample.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\delegateSample\delegateSample\obj\Debug\delegateSample.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\delegateSample\delegateSample\obj\Debug\delegateSample.exe
+c:\users\admin\source\repos\delegateSample\delegateSample\obj\Debug\delegateSample.pdb

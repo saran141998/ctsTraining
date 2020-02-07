@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\stringDemo\stringDemo\bin\Debug\stringDemo.exe.config
+C:\Users\Admin\source\repos\stringDemo\stringDemo\bin\Debug\stringDemo.exe
+C:\Users\Admin\source\repos\stringDemo\stringDemo\bin\Debug\stringDemo.pdb
+C:\Users\Admin\source\repos\stringDemo\stringDemo\obj\Debug\stringDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\stringDemo\stringDemo\obj\Debug\stringDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\stringDemo\stringDemo\obj\Debug\stringDemo.exe
+C:\Users\Admin\source\repos\stringDemo\stringDemo\obj\Debug\stringDemo.pdb

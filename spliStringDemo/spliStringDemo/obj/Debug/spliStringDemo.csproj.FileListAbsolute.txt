@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\bin\Debug\spliStringDemo.exe.config
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\bin\Debug\spliStringDemo.exe
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\bin\Debug\spliStringDemo.pdb
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\obj\Debug\spliStringDemo.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\obj\Debug\spliStringDemo.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\obj\Debug\spliStringDemo.exe
+c:\users\admin\source\repos\spliStringDemo\spliStringDemo\obj\Debug\spliStringDemo.pdb

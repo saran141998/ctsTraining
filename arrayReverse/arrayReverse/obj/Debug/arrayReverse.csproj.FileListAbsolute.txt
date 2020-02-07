@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\arrayReverse\arrayReverse\bin\Debug\arrayReverse.exe.config
+c:\users\admin\source\repos\arrayReverse\arrayReverse\bin\Debug\arrayReverse.exe
+c:\users\admin\source\repos\arrayReverse\arrayReverse\bin\Debug\arrayReverse.pdb
+c:\users\admin\source\repos\arrayReverse\arrayReverse\obj\Debug\arrayReverse.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\arrayReverse\arrayReverse\obj\Debug\arrayReverse.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\arrayReverse\arrayReverse\obj\Debug\arrayReverse.exe
+c:\users\admin\source\repos\arrayReverse\arrayReverse\obj\Debug\arrayReverse.pdb

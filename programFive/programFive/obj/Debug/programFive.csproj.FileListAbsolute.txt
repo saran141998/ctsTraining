@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\programFive\programFive\bin\Debug\programFive.exe.config
+C:\Users\Admin\source\repos\programFive\programFive\bin\Debug\programFive.exe
+C:\Users\Admin\source\repos\programFive\programFive\bin\Debug\programFive.pdb
+C:\Users\Admin\source\repos\programFive\programFive\obj\Debug\programFive.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\programFive\programFive\obj\Debug\programFive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\programFive\programFive\obj\Debug\programFive.exe
+C:\Users\Admin\source\repos\programFive\programFive\obj\Debug\programFive.pdb

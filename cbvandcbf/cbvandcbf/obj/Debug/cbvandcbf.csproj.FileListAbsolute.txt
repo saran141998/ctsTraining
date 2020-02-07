@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\bin\Debug\cbvandcbf.exe.config
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\bin\Debug\cbvandcbf.exe
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\bin\Debug\cbvandcbf.pdb
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\obj\Debug\cbvandcbf.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\obj\Debug\cbvandcbf.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\obj\Debug\cbvandcbf.exe
+c:\users\admin\source\repos\cbvandcbf\cbvandcbf\obj\Debug\cbvandcbf.pdb

@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\xmlDemo\xmlDemo\bin\Debug\xmlDemo.exe.config
+c:\users\admin\source\repos\xmlDemo\xmlDemo\bin\Debug\xmlDemo.exe
+c:\users\admin\source\repos\xmlDemo\xmlDemo\bin\Debug\xmlDemo.pdb
+c:\users\admin\source\repos\xmlDemo\xmlDemo\obj\Debug\xmlDemo.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\xmlDemo\xmlDemo\obj\Debug\xmlDemo.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\xmlDemo\xmlDemo\obj\Debug\xmlDemo.exe
+c:\users\admin\source\repos\xmlDemo\xmlDemo\obj\Debug\xmlDemo.pdb

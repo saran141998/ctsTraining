@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\bin\Debug\insertAndSelect.exe.config
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\bin\Debug\insertAndSelect.exe
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\bin\Debug\insertAndSelect.pdb
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\obj\Debug\insertAndSelect.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\obj\Debug\insertAndSelect.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\obj\Debug\insertAndSelect.exe
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\obj\Debug\insertAndSelect.pdb
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\bin\Debug\SqlConnectionLibrary.dll
+C:\Users\Admin\source\repos\insertAndSelect\insertAndSelect\bin\Debug\SqlConnectionLibrary.pdb

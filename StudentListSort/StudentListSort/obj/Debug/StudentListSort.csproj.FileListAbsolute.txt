@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\bin\Debug\StudentListSort.exe.config
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\bin\Debug\StudentListSort.exe
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\bin\Debug\StudentListSort.pdb
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\obj\Debug\StudentListSort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\obj\Debug\StudentListSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\obj\Debug\StudentListSort.exe
+C:\Users\Admin\source\repos\StudentListSort\StudentListSort\obj\Debug\StudentListSort.pdb
