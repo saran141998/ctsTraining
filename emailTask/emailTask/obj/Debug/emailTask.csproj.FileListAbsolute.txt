@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\emailTask\emailTask\bin\Debug\emailTask.exe.config
+C:\Users\Admin\source\repos\emailTask\emailTask\bin\Debug\emailTask.exe
+C:\Users\Admin\source\repos\emailTask\emailTask\bin\Debug\emailTask.pdb
+C:\Users\Admin\source\repos\emailTask\emailTask\obj\Debug\emailTask.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\emailTask\emailTask\obj\Debug\emailTask.exe
+C:\Users\Admin\source\repos\emailTask\emailTask\obj\Debug\emailTask.pdb

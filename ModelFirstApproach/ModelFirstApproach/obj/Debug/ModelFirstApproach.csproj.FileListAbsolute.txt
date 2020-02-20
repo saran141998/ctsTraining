@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\ModelFirstApproach.exe.config
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\ModelFirstApproach.exe
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\ModelFirstApproach.pdb
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.csproj.CopyComplete
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.exe
+C:\Users\Admin\source\repos\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.pdb

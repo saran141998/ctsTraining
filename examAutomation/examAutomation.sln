@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examAutomation", "examAutomation\examAutomation.csproj", "{D2CC69F1-6E01-418F-98E1-3AAEB8277E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CC69F1-6E01-418F-98E1-3AAEB8277E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CC69F1-6E01-418F-98E1-3AAEB8277E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CC69F1-6E01-418F-98E1-3AAEB8277E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CC69F1-6E01-418F-98E1-3AAEB8277E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED03C052-B069-4853-8907-7CB8D4337D86}
+	EndGlobalSection
+EndGlobal

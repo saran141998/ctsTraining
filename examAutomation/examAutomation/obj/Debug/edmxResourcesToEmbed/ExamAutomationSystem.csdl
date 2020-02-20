@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ExamAutomationSystem" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ExamAutomationSystemContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="StudentsInfo" EntityType="ExamAutomationSystem.StudentInfo" />
+    <EntitySet Name="ExamsInfo" EntityType="ExamAutomationSystem.ExamInfo" />
+    <EntitySet Name="ResultsInfo" EntityType="ExamAutomationSystem.ResultInfo" />
+    <AssociationSet Name="StudentInfoResultInfo" Association="ExamAutomationSystem.StudentInfoResultInfo">
+      <End Role="StudentInfo" EntitySet="StudentsInfo" />
+      <End Role="ResultInfo" EntitySet="ResultsInfo" />
+    </AssociationSet>
+    <AssociationSet Name="ExamInfoResultInfo" Association="ExamAutomationSystem.ExamInfoResultInfo">
+      <End Role="ExamInfo" EntitySet="ExamsInfo" />
+      <End Role="ResultInfo" EntitySet="ResultsInfo" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="StudentInfo">
+    <Key>
+      <PropertyRef Name="StudentRegNo" />
+    </Key>
+    <Property Name="StudentRegNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentName" Type="String" Nullable="false" />
+    <Property Name="DOB" Type="DateTime" Nullable="false" />
+    <Property Name="SchoolName" Type="String" Nullable="false" />
+    <NavigationProperty Name="ResultInfoes" Relationship="ExamAutomationSystem.StudentInfoResultInfo" FromRole="StudentInfo" ToRole="ResultInfo" />
+  </EntityType>
+  <EntityType Name="ExamInfo">
+    <Key>
+      <PropertyRef Name="SubjectCode" />
+    </Key>
+    <Property Name="SubjectCode" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectName" Type="String" Nullable="false" />
+    <Property Name="Examdate" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="ResultInfoes" Relationship="ExamAutomationSystem.ExamInfoResultInfo" FromRole="ExamInfo" ToRole="ResultInfo" />
+  </EntityType>
+  <EntityType Name="ResultInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="StudentInfo" Relationship="ExamAutomationSystem.StudentInfoResultInfo" FromRole="ResultInfo" ToRole="StudentInfo" />
+    <Property Name="StudentRegNo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ExamInfo" Relationship="ExamAutomationSystem.ExamInfoResultInfo" FromRole="ResultInfo" ToRole="ExamInfo" />
+    <Property Name="SubjectCode" Type="Int32" Nullable="false" />
+    <Property Name="Marks" Type="Double" Nullable="false" />
+  </EntityType>
+  <Association Name="StudentInfoResultInfo">
+    <End Type="ExamAutomationSystem.StudentInfo" Role="StudentInfo" Multiplicity="1" />
+    <End Type="ExamAutomationSystem.ResultInfo" Role="ResultInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudentInfo">
+        <PropertyRef Name="StudentRegNo" />
+      </Principal>
+      <Dependent Role="ResultInfo">
+        <PropertyRef Name="StudentRegNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ExamInfoResultInfo">
+    <End Type="ExamAutomationSystem.ExamInfo" Role="ExamInfo" Multiplicity="1" />
+    <End Type="ExamAutomationSystem.ResultInfo" Role="ResultInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExamInfo">
+        <PropertyRef Name="SubjectCode" />
+      </Principal>
+      <Dependent Role="ResultInfo">
+        <PropertyRef Name="SubjectCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

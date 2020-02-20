@@ -1,0 +1,13 @@
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\efCodeFirst.exe.config
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\efCodeFirst.exe
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\efCodeFirst.pdb
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\obj\Debug\efCodeFirst.exe
+c:\users\admin\source\repos\efCodeFirst\efCodeFirst\obj\Debug\efCodeFirst.pdb
+C:\Users\Admin\source\repos\efCodeFirst\efCodeFirst\obj\Debug\efCodeFirst.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\efCodeFirst\efCodeFirst\obj\Debug\efCodeFirst.csproj.CopyComplete
+C:\Users\Admin\source\repos\efCodeFirst\efCodeFirst\obj\Debug\efCodeFirst.Migrations.initialmigration.resources
+C:\Users\Admin\source\repos\efCodeFirst\efCodeFirst\obj\Debug\efCodeFirst.csproj.GenerateResource.cache

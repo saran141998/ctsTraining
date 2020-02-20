@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExamAutomationSystemStoreContainer" CdmEntityContainer="ExamAutomationSystemContainer">
+    <EntitySetMapping Name="StudentsInfo">
+      <EntityTypeMapping TypeName="IsTypeOf(ExamAutomationSystem.StudentInfo)">
+        <MappingFragment StoreEntitySet="StudentsInfo">
+          <ScalarProperty Name="StudentRegNo" ColumnName="StudentRegNo" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="SchoolName" ColumnName="SchoolName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ExamsInfo">
+      <EntityTypeMapping TypeName="IsTypeOf(ExamAutomationSystem.ExamInfo)">
+        <MappingFragment StoreEntitySet="ExamsInfo">
+          <ScalarProperty Name="SubjectCode" ColumnName="SubjectCode" />
+          <ScalarProperty Name="SubjectName" ColumnName="SubjectName" />
+          <ScalarProperty Name="Examdate" ColumnName="Examdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ResultsInfo">
+      <EntityTypeMapping TypeName="IsTypeOf(ExamAutomationSystem.ResultInfo)">
+        <MappingFragment StoreEntitySet="ResultsInfo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="StudentRegNo" ColumnName="StudentRegNo" />
+          <ScalarProperty Name="SubjectCode" ColumnName="SubjectCode" />
+          <ScalarProperty Name="Marks" ColumnName="Marks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

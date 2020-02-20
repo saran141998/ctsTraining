@@ -28,6 +28,8 @@ namespace quesPrep
 				si += ei;
 				n += ei;
 			}
+			File.WriteAllText(path, string.Empty);
+			File.WriteAllText(path, final);
 			Console.WriteLine(final);
 		}
 		public static void rev(ArrayList a1)
@@ -46,11 +48,12 @@ namespace quesPrep
 		{
 			string text = File.ReadAllText(path);
 			string[] str = text.Split();
-			File.WriteAllText(path, string.Empty);
-			foreach(string s in str)
-			{
-				Console.WriteLine(s);
-			}
+			makeArray(str, (str.Length / 2));
+			//File.WriteAllText(path, string.Empty);
+			//foreach(string s in str)
+			//{
+			//	makeArray()
+			//}
 			Console.ReadKey();
 		}
 	}

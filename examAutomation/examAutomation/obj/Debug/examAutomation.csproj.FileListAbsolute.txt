@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\examAutomation.exe.config
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\examAutomation.exe
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\examAutomation.pdb
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\examAutomation\examAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\examAutomation\examAutomation\obj\Debug\examAutomation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\examAutomation\examAutomation\obj\Debug\examAutomation.csproj.CopyComplete
+C:\Users\Admin\source\repos\examAutomation\examAutomation\obj\Debug\examAutomation.exe
+C:\Users\Admin\source\repos\examAutomation\examAutomation\obj\Debug\examAutomation.pdb
