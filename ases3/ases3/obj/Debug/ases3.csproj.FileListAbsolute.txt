@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ases3\ases3\bin\Debug\ases3.exe.config
+C:\Users\Admin\source\repos\ases3\ases3\bin\Debug\ases3.exe
+C:\Users\Admin\source\repos\ases3\ases3\bin\Debug\ases3.pdb
+C:\Users\Admin\source\repos\ases3\ases3\obj\Debug\ases3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ases3\ases3\obj\Debug\ases3.exe
+C:\Users\Admin\source\repos\ases3\ases3\obj\Debug\ases3.pdb

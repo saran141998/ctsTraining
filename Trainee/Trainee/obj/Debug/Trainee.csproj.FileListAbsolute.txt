@@ -79,7 +79,7 @@ c:\users\admin\source\repos\Trainee\Trainee\bin\Microsoft.AI.DependencyCollector
 c:\users\admin\source\repos\Trainee\Trainee\bin\Microsoft.AI.ServerTelemetryChannel.xml
 c:\users\admin\source\repos\Trainee\Trainee\bin\Microsoft.AI.WindowsServer.xml
 c:\users\admin\source\repos\Trainee\Trainee\bin\Microsoft.AI.Web.xml
-c:\users\admin\source\repos\Trainee\Trainee\obj\Debug\Trainee.csprojResolveAssemblyReference.cache
-c:\users\admin\source\repos\Trainee\Trainee\obj\Debug\Trainee.csproj.CoreCompileInputs.cache
 c:\users\admin\source\repos\Trainee\Trainee\obj\Debug\Trainee.dll
 c:\users\admin\source\repos\Trainee\Trainee\obj\Debug\Trainee.pdb
+C:\Users\Admin\source\repos\Trainee\Trainee\obj\Debug\Trainee.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Trainee\Trainee\obj\Debug\Trainee.csproj.CopyComplete

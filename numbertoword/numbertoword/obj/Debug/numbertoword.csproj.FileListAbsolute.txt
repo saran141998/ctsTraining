@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\numbertoword\numbertoword\bin\Debug\numbertoword.exe.config
+C:\Users\Admin\source\repos\numbertoword\numbertoword\bin\Debug\numbertoword.exe
+C:\Users\Admin\source\repos\numbertoword\numbertoword\bin\Debug\numbertoword.pdb
+C:\Users\Admin\source\repos\numbertoword\numbertoword\obj\Debug\numbertoword.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\numbertoword\numbertoword\obj\Debug\numbertoword.exe
+C:\Users\Admin\source\repos\numbertoword\numbertoword\obj\Debug\numbertoword.pdb

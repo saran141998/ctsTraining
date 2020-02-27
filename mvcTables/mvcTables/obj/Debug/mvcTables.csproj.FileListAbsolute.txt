@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\mvcTables.dll.config
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\mvcTables.dll
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\mvcTables.pdb
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\mvcTables\mvcTables\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\mvcTables\mvcTables\obj\Debug\mvcTables.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\mvcTables\mvcTables\obj\Debug\mvcTables.csproj.CopyComplete
+C:\Users\Admin\source\repos\mvcTables\mvcTables\obj\Debug\mvcTables.dll
+C:\Users\Admin\source\repos\mvcTables\mvcTables\obj\Debug\mvcTables.pdb
