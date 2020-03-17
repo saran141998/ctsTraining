@@ -34,6 +34,7 @@ namespace mvcTestCore.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Publisher")
+                        .IsRequired()
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("category")

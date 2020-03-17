@@ -24,6 +24,7 @@ namespace mvcTestCore.Models
 		[Column(TypeName = "nvarchar(100)")]
 		public string AuthorName { get; set; }
 		[Column(TypeName = "nvarchar(100)")]
+		[Required]
 		public string Publisher { get; set; }
 	}
 }

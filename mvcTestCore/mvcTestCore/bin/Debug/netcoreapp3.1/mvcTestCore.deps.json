@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "mvcTestCore/1.0.0": {
         "dependencies": {
+          "Elmah.Contrib.Mvc": "2.1.0",
           "Microsoft.EntityFrameworkCore": "3.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.1",
@@ -306,6 +307,88 @@
         },
         "compile": {
           "mvcTestCore.dll": {}
+        }
+      },
+      "Elmah.Contrib.Mvc/2.1.0": {
+        "dependencies": {
+          "Microsoft.AspNet.Mvc": "4.0.20505",
+          "elmah.corelibrary": "1.2.2"
+        },
+        "runtime": {
+          "lib/net45/Elmah.Contrib.Mvc.dll": {
+            "assemblyVersion": "2.1.5049.27528",
+            "fileVersion": "2.1.5049.27528"
+          }
+        },
+        "compile": {
+          "lib/net45/Elmah.Contrib.Mvc.dll": {}
+        }
+      },
+      "elmah.corelibrary/1.2.2": {
+        "runtime": {
+          "lib/Elmah.dll": {
+            "assemblyVersion": "1.2.14706.0",
+            "fileVersion": "1.2.14706.955"
+          }
+        },
+        "compile": {
+          "lib/Elmah.dll": {}
+        }
+      },
+      "Microsoft.AspNet.Mvc/4.0.20505": {
+        "dependencies": {
+          "Microsoft.AspNet.Razor": "2.0.20505",
+          "Microsoft.AspNet.WebPages": "2.0.20505"
+        },
+        "runtime": {
+          "lib/net40/System.Web.Mvc.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.20505.0"
+          }
+        },
+        "compile": {
+          "lib/net40/System.Web.Mvc.dll": {}
+        }
+      },
+      "Microsoft.AspNet.Razor/2.0.20505": {
+        "runtime": {
+          "lib/net40/System.Web.Razor.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20505.0"
+          }
+        },
+        "compile": {
+          "lib/net40/System.Web.Razor.dll": {}
+        }
+      },
+      "Microsoft.AspNet.WebPages/2.0.20505": {
+        "dependencies": {
+          "Microsoft.AspNet.Razor": "2.0.20505",
+          "Microsoft.Web.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "lib/net40/System.Web.Helpers.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20505.0"
+          },
+          "lib/net40/System.Web.WebPages.Deployment.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20505.0"
+          },
+          "lib/net40/System.Web.WebPages.Razor.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20505.0"
+          },
+          "lib/net40/System.Web.WebPages.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.20505.0"
+          }
+        },
+        "compile": {
+          "lib/net40/System.Web.Helpers.dll": {},
+          "lib/net40/System.Web.WebPages.Deployment.dll": {},
+          "lib/net40/System.Web.WebPages.Razor.dll": {},
+          "lib/net40/System.Web.WebPages.dll": {}
         }
       },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
@@ -1073,6 +1156,17 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {}
+        }
+      },
+      "Microsoft.Web.Infrastructure/1.0.0": {
+        "runtime": {
+          "lib/net40/Microsoft.Web.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.20105.407"
+          }
+        },
+        "compile": {
+          "lib/net40/Microsoft.Web.Infrastructure.dll": {}
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -3927,6 +4021,41 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Elmah.Contrib.Mvc/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BSoCxLsu0GlbNTURHomYwt8+gECq+8O1MRYvmqBYC+xaXl1Bcl7D0WcVGV+IEo1tLw3ybpocPjZ/3Ep3NfOLfg==",
+      "path": "elmah.contrib.mvc/2.1.0",
+      "hashPath": "elmah.contrib.mvc.2.1.0.nupkg.sha512"
+    },
+    "elmah.corelibrary/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OEx4ds9r2bw2/45VZwfw11lLv4y+mC2FUZxp7LsjmauFxj92K1kx8hafSBvls+V9s0WH0wv84B1LfWN/EaGfkg==",
+      "path": "elmah.corelibrary/1.2.2",
+      "hashPath": "elmah.corelibrary.1.2.2.nupkg.sha512"
+    },
+    "Microsoft.AspNet.Mvc/4.0.20505": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V6zLs67Ns8wMQ4AkzP2iFn3hh/KkM4r+YxkjV2NgTnlVyo3jgiHDmdi0sM6Bl51sGcwg8BGhgRsLGDOzTqunzg==",
+      "path": "microsoft.aspnet.mvc/4.0.20505",
+      "hashPath": "microsoft.aspnet.mvc.4.0.20505.nupkg.sha512"
+    },
+    "Microsoft.AspNet.Razor/2.0.20505": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Gk3ZVP/bwGsKx3fQf4EHoIzCApHU9LTIWOjmABa5VMT7axwyPDtUq3wGfW3LiHmlHjkh/SwnZzwCw1LnCTgmBQ==",
+      "path": "microsoft.aspnet.razor/2.0.20505",
+      "hashPath": "microsoft.aspnet.razor.2.0.20505.nupkg.sha512"
+    },
+    "Microsoft.AspNet.WebPages/2.0.20505": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/eILBjvoH9y3DqTZO3HX0HHyocyQPzdR125lVxSVHJUQq6NosyYS9BdcLlug9c7qYtVkDcUDxQRhHTBnDqC1VA==",
+      "path": "microsoft.aspnet.webpages/2.0.20505",
+      "hashPath": "microsoft.aspnet.webpages.2.0.20505.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -4262,6 +4391,13 @@
       "sha512": "sha512-U+ud8PSdPOxnRMPNZcuppp5vS+PbY2nzHVNvcD1u/RYzG8jXVtrwlDkFLazbEsR7/8uym2UbdvQ5qKEcSkzPXA==",
       "path": "microsoft.visualstudio.web.codegenerators.mvc/3.1.1",
       "hashPath": "microsoft.visualstudio.web.codegenerators.mvc.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.Web.Infrastructure/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg==",
+      "path": "microsoft.web.infrastructure/1.0.0",
+      "hashPath": "microsoft.web.infrastructure.1.0.0.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

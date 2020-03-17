@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MovieEntitiesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Movie">
+    <Key>
+      <PropertyRef Name="MovieId" />
+    </Key>
+    <Property Name="MovieId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MovieName" Type="varchar(max)" Nullable="false" />
+    <Property Name="MovieGenere" Type="varchar(max)" Nullable="false" />
+    <Property Name="MovieReleaseDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Multiplex">
+    <Key>
+      <PropertyRef Name="MultiplexId" />
+    </Key>
+    <Property Name="MultiplexId" Type="int" Nullable="false" />
+    <Property Name="MultiplexName" Type="varchar(max)" Nullable="false" />
+    <Property Name="Location" Type="varchar(max)" Nullable="false" />
+    <Property Name="Screen" Type="int" Nullable="false" />
+    <Property Name="MovieId" Type="int" />
+  </EntityType>
+  <Association Name="FK__Multiplex__Movie__1273C1CD">
+    <End Role="Movie" Type="Self.Movie" Multiplicity="0..1" />
+    <End Role="Multiplex" Type="Self.Multiplex" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="MovieId" />
+      </Principal>
+      <Dependent Role="Multiplex">
+        <PropertyRef Name="MovieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MovieEntitiesModelStoreContainer">
+    <EntitySet Name="Movie" EntityType="Self.Movie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Multiplex" EntityType="Self.Multiplex" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Multiplex__Movie__1273C1CD" Association="Self.FK__Multiplex__Movie__1273C1CD">
+      <End Role="Movie" EntitySet="Movie" />
+      <End Role="Multiplex" EntitySet="Multiplex" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

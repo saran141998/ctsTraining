@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MovieEntitiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Movie">
+    <Key>
+      <PropertyRef Name="MovieId" />
+    </Key>
+    <Property Name="MovieId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MovieName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MovieGenere" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MovieReleaseDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Multiplexes" Relationship="Self.FK__Multiplex__Movie__1273C1CD" FromRole="Movie" ToRole="Multiplex" />
+  </EntityType>
+  <EntityType Name="Multiplex">
+    <Key>
+      <PropertyRef Name="MultiplexId" />
+    </Key>
+    <Property Name="MultiplexId" Type="Int32" Nullable="false" />
+    <Property Name="MultiplexName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Location" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Screen" Type="Int32" Nullable="false" />
+    <Property Name="MovieId" Type="Int32" />
+    <NavigationProperty Name="Movie" Relationship="Self.FK__Multiplex__Movie__1273C1CD" FromRole="Multiplex" ToRole="Movie" />
+  </EntityType>
+  <Association Name="FK__Multiplex__Movie__1273C1CD">
+    <End Role="Movie" Type="Self.Movie" Multiplicity="0..1" />
+    <End Role="Multiplex" Type="Self.Multiplex" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="MovieId" />
+      </Principal>
+      <Dependent Role="Multiplex">
+        <PropertyRef Name="MovieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MovieEntitiesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Movies" EntityType="Self.Movie" />
+    <EntitySet Name="Multiplexes" EntityType="Self.Multiplex" />
+    <AssociationSet Name="FK__Multiplex__Movie__1273C1CD" Association="Self.FK__Multiplex__Movie__1273C1CD">
+      <End Role="Movie" EntitySet="Movies" />
+      <End Role="Multiplex" EntitySet="Multiplexes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

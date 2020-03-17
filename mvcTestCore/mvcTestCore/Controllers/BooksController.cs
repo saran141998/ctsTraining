@@ -19,9 +19,31 @@ namespace mvcTestCore.Controllers
         }
 
         // GET: Books
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string BookCategory, string searchstr ,string BookPublisher)
         {
-            return View(await _context.Books.ToListAsync());
+            
+             var books=from b1 in _context.Books select b1;
+            IQueryable<string> bookcate = from b in _context.Books orderby b.category select b.category;
+            IQueryable<string> bookPub = from y in _context.Books orderby y.Publisher select y.Publisher;
+            if (!String.IsNullOrEmpty(BookCategory))
+            {
+                books = books.Where(b => b.category == BookCategory);
+            }
+            if (!String.IsNullOrEmpty(searchstr))
+            {
+                books = books.Where(x => x.BookTitle.Contains(searchstr));
+            }
+            if (!String.IsNullOrEmpty(BookPublisher))
+            {
+                books = books.Where(x => x.Publisher==BookPublisher);
+            }
+            var bookviewM = new BookCategoryViewModel
+            {
+                Categories=new SelectList(await bookcate.Distinct().ToListAsync()),
+                Publishers=new SelectList(await bookPub.Distinct().ToListAsync()),
+                books=await books.ToListAsync()
+            };
+            return View(bookviewM);
         }
 
         // GET: Books/Details/5
